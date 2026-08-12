@@ -1,0 +1,11 @@
+void main()
+{
+int a,b;
+printf("\n Enter a value:");
+scanf("%d",&a);
+printf("\n Enter b value:");
+scanf("%d",&b);
+int c=a*b;
+printf("\n c value is %d",c);
+getch();
+}
